@@ -11,7 +11,7 @@ print("Primera compra:")
 print(f"  Total con descuento aplicado: ${total1}\n")
 
 # Segunda llamada: mostrar todo (monto, descuento, total)
-monto2 = 800
+monto2 = 1800
 porcentaje2 = 20
 descuento2 = calcular_descuento(monto2, porcentaje2)
 total2 = monto2 - descuento2
